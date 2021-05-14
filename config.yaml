@@ -1,0 +1,7 @@
+# config.yaml file
+---
+arg_broker_url: '192.168.1.14'
+arg_broker_port: 1883
+arg_mqtt_sub_topic: 'test/check'
+arg_mqtt_qos: 0
+arg_mqtt_pub_topic: 'test/response'
